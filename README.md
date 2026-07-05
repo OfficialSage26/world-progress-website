@@ -1,8 +1,9 @@
 # World Progress — Website
 
-Landing page for [World Progress](https://github.com/OfficialSage26/world-progress-app),
-a minimalist Android app that shows how much of today, this week, this month,
-and the year has already passed — with home screen widgets that never go stale.
+Landing page for World Progress, a minimalist Android app that shows how much
+of today, this week, this month, and the year has already passed — with home
+screen widgets that never go stale. The APK is published on this repo's
+[releases page](https://github.com/OfficialSage26/world-progress-website/releases/latest).
 
 ## Structure
 
